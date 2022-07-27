@@ -1,0 +1,13 @@
+package compreehensive.com;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CompreehensiveApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
